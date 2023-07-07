@@ -1,7 +1,6 @@
-# AWS-projects 
+# Deploy a Static Website on AWS using Route 53 and S3
 
-                            Deploy a Static Website on AWS using Route 53 and S3
-
+                    
 Project Overview:
 
 In this project, I have launched a static website using two AWS services: Amazon S3 and Amazon Route 53. 
