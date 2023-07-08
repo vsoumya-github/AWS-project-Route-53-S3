@@ -54,7 +54,8 @@ STEP 7:
 
 It took a few minutes for the changes to propagate. Once the changes were implemented, my custom domain, such as "soumyaproject.click," pointed to the S3 bucket, and the website displayed the welcome message.
 
-   ![image](https://github.com/vsoumya-github/AWS-projects/assets/137465090/f7e8c7e8-6064-414e-a21e-027f71c530b4)
+  ![image](https://github.com/vsoumya-github/AWS-projects/assets/137465090/85ae6f03-914c-48a8-a36e-4d5df483cb45)
+
 
 
 In conclusion, I have completed the project by hosting a static website on Amazon S3 and connecting it to a custom domain using Amazon Route 53.
